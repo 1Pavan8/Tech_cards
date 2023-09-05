@@ -1,0 +1,36 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+}
+
+/* Write CSS code here. */
+
+.title {
+  color: #171f46;
+  font-size: 50px;
+}
+
+.desc {
+  color: #64748b;
+}
+
+.img {
+  height: 100px;
+  width: 100px;
+  text-align: end;
+}
+
+.card {
+  padding: 10px;
+}
