@@ -3,8 +3,8 @@
 import './index.css'
 
 const CardItem = props => {
-  const {carddet} = props
-  const {title, description, imgUrl, className} = carddet
+  //const {carddet} = props
+  const {title, description, imgUrl, className} = props;
   return (
     <li className={`card ${className}`}>
       <h1 className="title">{title}</h1>
